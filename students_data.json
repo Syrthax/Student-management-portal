@@ -1,0 +1,112 @@
+[
+    {
+        "roll_no": "20240101",
+        "name": "Rahul Kumar",
+        "marks": 85.5,
+        "cgpa": 8.5,
+        "grade": "A",
+        "attendance": 92.0,
+        "degree": "B.Tech",
+        "year_of_registration": 2024,
+        "remaining_years": 2
+    },
+    {
+        "roll_no": "20240102",
+        "name": "Priya Sharma",
+        "marks": 92.0,
+        "cgpa": 9.2,
+        "grade": "A+",
+        "attendance": 95.0,
+        "degree": "B.Tech",
+        "year_of_registration": 2024,
+        "remaining_years": 2
+    },
+    {
+        "roll_no": "20230201",
+        "name": "Amit Patel",
+        "marks": 78.0,
+        "cgpa": 7.8,
+        "grade": "B+",
+        "attendance": 88.0,
+        "degree": "B.Sc",
+        "year_of_registration": 2023,
+        "remaining_years": 0
+    },
+    {
+        "roll_no": "20240103",
+        "name": "Sneha Gupta",
+        "marks": 88.0,
+        "cgpa": 8.8,
+        "grade": "A",
+        "attendance": 90.0,
+        "degree": "B.Tech",
+        "year_of_registration": 2024,
+        "remaining_years": 2
+    },
+    {
+        "roll_no": "20230202",
+        "name": "Vikram Singh",
+        "marks": 82.0,
+        "cgpa": 8.2,
+        "grade": "A",
+        "attendance": 85.0,
+        "degree": "B.Sc",
+        "year_of_registration": 2023,
+        "remaining_years": 0
+    },
+    {
+        "roll_no": "20220301",
+        "name": "Anjali Verma",
+        "marks": 95.0,
+        "cgpa": 9.5,
+        "grade": "A+",
+        "attendance": 98.0,
+        "degree": "M.Tech",
+        "year_of_registration": 2022,
+        "remaining_years": 0
+    },
+    {
+        "roll_no": "20240104",
+        "name": "Rohan Das",
+        "marks": 75.0,
+        "cgpa": 7.5,
+        "grade": "B+",
+        "attendance": 80.0,
+        "degree": "B.Tech",
+        "year_of_registration": 2024,
+        "remaining_years": 2
+    },
+    {
+        "roll_no": "20230203",
+        "name": "Kavya Reddy",
+        "marks": 90.0,
+        "cgpa": 9.0,
+        "grade": "A+",
+        "attendance": 93.0,
+        "degree": "B.Sc",
+        "year_of_registration": 2023,
+        "remaining_years": 0
+    },
+    {
+        "roll_no": "20260105",
+        "name": "Arjun Mehta",
+        "marks": 87.0,
+        "cgpa": 8.7,
+        "grade": "A",
+        "attendance": 91.0,
+        "degree": "B.Tech",
+        "year_of_registration": 2026,
+        "remaining_years": 4
+    },
+    {
+        "roll_no": "20250301",
+        "name": "Ishita Bose",
+        "marks": 93.0,
+        "cgpa": 9.3,
+        "grade": "A+",
+        "attendance": 96.0,
+        "degree": "B.Sc",
+        "year_of_registration": 2025,
+        "remaining_years": 2
+    }
+]
